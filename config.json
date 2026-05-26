@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchralidate",
+        "uuid": 734328,
+        "checksum": "o9s6a8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
